@@ -61,7 +61,8 @@ npm start
 | DELETE | `/todos/:id` | Delete a task by ID |
 
 ## 🎨 UI Preview
-![Todo App UI](https://ibb.co/G4cm5Gj7)
+<a href="https://ibb.co/G4cm5Gj7"><img src="https://i.ibb.co/1t8cmBxZ/Screenshot-2025-03-12-194314.png" alt="Screenshot-2025-03-12-194314" border="0"></a>
+
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
